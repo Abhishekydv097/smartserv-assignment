@@ -25,5 +25,6 @@ This project is a basic frontend for a login dashboard with specific functionali
 ## Website link
 https://abhishekydv097.github.io/smartserv-assignment-3-4-main/
 
-[Video Link](https://drive.google.com/file/d/17qyaZbrphvl5FtIliS4QLvsY5gTNmUy1/view)
+## Output 
+[Please click here for working video](https://drive.google.com/file/d/17qyaZbrphvl5FtIliS4QLvsY5gTNmUy1/view)
 
